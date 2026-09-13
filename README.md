@@ -1,2 +1,2 @@
 # Nova-AI
-Nova AI will help you with anything! 
+NovaIA es un pequeña IA en proceso, puede cometer errores.
